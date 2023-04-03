@@ -1,9 +1,9 @@
-# Olá devs!🖖
+# Hello devs!🖖
 
 <p align="center">
   <img src="https://images.ctfassets.net/l3l0sjr15nav/4o6Nicy6NGYBbNXn2L2SUZ/117e2181d436fdd7a6afa5e1a29860fa/gifs_sao_legais.gif" width="350">
 </p>
-Me chamo Pedro Henrique, tenho 20 anos e curso Ciência da Computação pela Universidade Federal de Pelotas - RS, comecei nessa área porque sempre tive contato desde criança se aventurando mexendo no linux e usando muito o bash e to ai até hoje passando raiva e aprendendo.
+My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at the Federal University of Pelotas - RS, I started in this area because I've always been in contact with it since I was a child, venturing into Linux and using bash a lot and I'm there until today, getting angry and learning.
 
 ### Tecnologias e Ferramentas🖥️
 <img width="300px" align="right" src="https://user-images.githubusercontent.com/81587883/229560363-1bd75beb-91d4-4cdf-8d8a-48c345628fe5.png">
@@ -19,10 +19,10 @@ Me chamo Pedro Henrique, tenho 20 anos e curso Ciência da Computação pela Uni
 </br>
 
 <div display="inline-block">
- <p align="left">🐧 Sou membro da Liga Acadêmica de Robótica da UFPEL o <a href="https://www.instagram.com/pinguimbots/">PinguimBots</a>;</p>
- <p align="left">📚 Atualmente estou utilizando Python e ROS para desenvolver minhas habilidades com Machine Learning, IA, Visão Computacional e etc.</p>
- <p align="left">🏃🏾‍♂️Não parece, mas pratico muitos esportes como basquete e futebol americano, caso queria acompanhar meus hobbies da uma olhada no meu <a href="https://www.instagram.com/pedrohenli/">Instagram</a>.
- <p align="left">🎮 Eu também não dispenso meu lado gamer, de vez em quando costumo jogar um lol com os amigos ou jogos indies no geral.
+ <p align="left">🐧 I am a member of the UFPEL Academic Robotics League <a href="https://www.instagram.com/pinguimbots/">PinguimBots</a>;</p>
+ <p align="left">📚 I am currently using Python and ROS to develop my skills with Machine Learning, AI, Computer Vision and others.</p>
+ <p align="left">🏃🏾‍♂️It doesn't seem like it, but I play a lot of sports like basketball and American football, if you want to keep up with my hobbies, take a look at mine <a href="https://www.instagram.com/pedrohenli/">Instagram</a>.
+ <p align="left">🎮 I also don't dispense with my gamer side, from time to time I play League of Legends with my friends or indie games with a good history.
  </p>
 </div>
 
@@ -37,7 +37,7 @@ Me chamo Pedro Henrique, tenho 20 anos e curso Ciência da Computação pela Uni
 </a>
 </p>
   
-## Isso é tudo pe-pessoal👋
 <p align="center">
+  ## That's all folks!👋
   <img src="https://media.tenor.com/xvo8-YQ78P0AAAAC/porky-pig.gif" width="400">
 </p>
