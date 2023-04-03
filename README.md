@@ -12,7 +12,7 @@ Me chamo Pedro Henrique, tenho 20 anos e sou curso Ciência da Computação pela
 <img width="300px" align="right" src="![image](https://user-images.githubusercontent.com/81587883/229536160-2067f060-0721-4c11-8f5d-a9887b5b1a9a.png)">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
-<code><img width="40px" src="https://pt.m.wikipedia.org/wiki/Ficheiro:Robot_Operating_System_logo.svg" title = "ROS"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" title = "ROS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
@@ -27,8 +27,6 @@ Me chamo Pedro Henrique, tenho 20 anos e sou curso Ciência da Computação pela
  <p align="left">🏃🏾‍♂️Não parece mas pratico muitos esportes como basquete e futebol americano, caso queria acompanhar meus hobbies da uma olhada no meu <a href="https://www.instagram.com/pedrohenli/">Instagram</a>.
  <p align="left">🎮 Eu também não dispenso meu lado gamer, de vez em quando costumo jogar um lol com os amigos ou jogos indies no geral.</p>
 </div>
-
-
 
 </br>
 
@@ -49,5 +47,5 @@ Me chamo Pedro Henrique, tenho 20 anos e sou curso Ciência da Computação pela
  
 ##Isso é tudo pessoal!👋
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81587883/229542917-201e6e63-daca-45f3-b9fe-0639ef4c25c7.png)" width="350">
+  <img src="https://tenor.com/yvUs.gif" width="350">
 </p>
