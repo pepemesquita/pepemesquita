@@ -36,9 +36,10 @@ My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pepemesquita&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-  
+<--  
 ### That's all folks!👋
   
 <p align="center">
   <img src="https://media.tenor.com/xvo8-YQ78P0AAAAC/porky-pig.gif" width="400">
 </p>
+-->
