@@ -29,9 +29,10 @@ Me chamo Pedro Henrique, tenho 20 anos e sou curso Ciência da Computação pela
 </div>
 
 </br>
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/pedrohenli), também recomendo dar uma olhada em alguns dos meus repositórios ein!
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/pedrohenli) e também recomendo dar uma olhada em alguns dos meus repositórios ein!
 
 </br>
+
 
 <a href="https://www.instagram.com/pedrohenli/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/pedro-henrique-l-359a4b13b/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
