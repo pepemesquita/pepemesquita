@@ -8,7 +8,7 @@ Me chamo Pedro Henrique, tenho 20 anos e sou curso Ciência da Computação pela
 
 
 ### Tecnologias e Ferramentas🖥️
-<img width="300px" align="right" src="https://user-images.githubusercontent.com/81587883/229536160-2067f060-0721-4c11-8f5d-a9887b5b1a9a.png">
+<img width="300px" align="right" src="file:///C:/Users/pepem/Downloads/Meu%20projeto%20(1).png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" title = "ROS"/></code>
