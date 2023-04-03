@@ -45,7 +45,6 @@ Me chamo Pedro Henrique, tenho 20 anos e sou curso Ciência da Computação pela
 </a>
 </p>
  
-##Isso é tudo pessoal!👋
 <p align="center">
-  <img src="https://tenor.com/yvUs.gif" width="350">
+  <img src="https://media.tenor.com/xvo8-YQ78P0AAAAC/porky-pig.gif" width="350">
 </p>
