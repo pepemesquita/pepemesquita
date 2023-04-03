@@ -20,14 +20,14 @@ My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at
 
 <div display="inline-block">
  <p align="left">🐧 I am a member of the UFPEL Academic Robotics League <a href="https://www.instagram.com/pinguimbots/">PinguimBots</a>;</p>
- <p align="left">📚 I am currently using Python and ROS to develop my skills with Machine Learning, AI, Computer Vision and others.</p>
- <p align="left">🏃🏾‍♂️It doesn't seem like it, but I play a lot of sports like basketball and American football, if you want to keep up with my hobbies, take a look at mine <a href="https://www.instagram.com/pedrohenli/">Instagram</a>.
- <p align="left">🎮 I also don't dispense with my gamer side, from time to time I play League of Legends with my friends or indie games with a good history.
+ <p align="left">📚 I am currently using Python and Robot Operating System - ROS to develop my skills with Machine Learning, AI, Computer Vision and others.</p>
+ <p align="left">🏃🏾‍♂️It doesn't seem like it, but i play a lot of sports like basketball and american football, if you want to keep up with my hobbies, take a look at my <a href="https://www.instagram.com/pedrohenli/">Instagram</a>.
+ <p align="left">🎮 I also don't dispense with my gamer side, from time to time i play League of Legends with my friends or indie games with a good history.
  </p>
 </div>
 
-<a href="https://www.instagram.com/pedrohenli/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/pedro-henrique-l-359a4b13b/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/pedrohenli/" target="_blank"><img align="left" alt="Instagram" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/in/pedro-henrique-l-359a4b13b/" target="_blank"><img align="left" alt="LinkedIn" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 ##
 <p align="center">
