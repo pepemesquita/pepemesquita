@@ -2,7 +2,7 @@
 My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at the Federal University of Pelotas - RS, I started in this area because I've always been in contact with it since I was a child, venturing into Linux and using bash a lot and I'm there until today, getting angry and learning.
 
 <p align="center">
-  <img src="https://images.ctfassets.net/l3l0sjr15nav/4o6Nicy6NGYBbNXn2L2SUZ/117e2181d436fdd7a6afa5e1a29860fa/gifs_sao_legais.gif" width="350">
+  <img src="https://images.ctfassets.net/l3l0sjr15nav/4o6Nicy6NGYBbNXn2L2SUZ/117e2181d436fdd7a6afa5e1a29860fa/gifs_sao_legais.gif" width="400">
 </p>
 
 ### Tecnologias e Ferramentas🖥️
@@ -30,10 +30,11 @@ My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at
 <a href="https://www.linkedin.com/in/pedro-henrique-l-359a4b13b/" target="_blank"><img align="left" alt="LinkedIn" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 ##
+<img width="300px" align="left" src="https://user-images.githubusercontent.com/81587883/229621452-0adebd93-dfe5-4b94-ad14-3e41c337c495.png">
 <p align="center">
 <a href="https://github.com/pepemesquita">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pepemesquita&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pepemesquita&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pepemesquita&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="191em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pepemesquita&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
  
