@@ -29,7 +29,7 @@ Me chamo Pedro Henrique, tenho 20 anos e sou curso Ciência da Computação pela
 </div>
 
 </br>
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/pedrohenli/), também recomendo dar uma olhada em alguns dos meus repositórios ein!
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/pedrohenli), também recomendo dar uma olhada em alguns dos meus repositórios ein!
 
 </br>
 
@@ -43,7 +43,7 @@ Me chamo Pedro Henrique, tenho 20 anos e sou curso Ciência da Computação pela
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pepemesquita&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-### Isso é tudo pessoal!👋
+
 <p align="center">
   <img src="https://media.tenor.com/xvo8-YQ78P0AAAAC/porky-pig.gif" width="400">
 </p>
