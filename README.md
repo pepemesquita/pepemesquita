@@ -2,10 +2,12 @@
 My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at the Federal University of Pelotas - RS, I started in this area because I've always been in contact with it since I was a child, venturing into Linux and using bash a lot and I'm there until today, getting angry and learning.
 
 <p align="center">
-  <img src="https://images.ctfassets.net/l3l0sjr15nav/4o6Nicy6NGYBbNXn2L2SUZ/117e2181d436fdd7a6afa5e1a29860fa/gifs_sao_legais.gif" width="400">
+  <img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="450">
 </p>
+ <p align = "center"> BTW Golden boy is a great anime, I recommend!</p>
 
-### Tecnologias e Ferramentas🖥️
+
+### Languages and tools🖥️
 <img width="300px" align="right" src="https://user-images.githubusercontent.com/81587883/229560363-1bd75beb-91d4-4cdf-8d8a-48c345628fe5.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
@@ -19,7 +21,7 @@ My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at
 </br>
 
 <div display="inline-block">
- <p align="left">🐧 I am a member of the UFPEL Academic Robotics League <a href="https://www.instagram.com/pinguimbots/">PinguimBots</a>;</p>
+ <p align="left">🐧 I am a member of the UFPEL Academic Robotics League <a href="https://www.instagram.com/pinguimbots/">PinguimBots</a>.</p>
  <p align="left">📚 I am currently using Python and Robot Operating System - ROS to develop my skills with Machine Learning, AI, Computer Vision and others.</p>
  <p align="left">🏃🏾‍♂️It doesn't seem like it, but i play a lot of sports like basketball and american football, if you want to keep up with my hobbies, take a look at my <a href="https://www.instagram.com/pedrohenli/">Instagram</a>.
  <p align="left">🎮 I also don't dispense with my gamer side, from time to time i play League of Legends with my friends or indie games with a good history.
