@@ -11,9 +11,10 @@ My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at
 <img width="300px" align="right" src="https://user-images.githubusercontent.com/81587883/229560363-1bd75beb-91d4-4cdf-8d8a-48c345628fe5.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
-<code><img width="40px" src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" title = "ROS"/></code>
+<code><img width="36px" src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" title = "ROS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="65px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title = "COLABORATORY"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 
