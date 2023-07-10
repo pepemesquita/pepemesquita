@@ -36,7 +36,6 @@ My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at
 <img width="300px" align="left" src="https://user-images.githubusercontent.com/81587883/229621452-0adebd93-dfe5-4b94-ad14-3e41c337c495.png">
 <p align="center">
 <a href="https://github.com/pepemesquita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pepemesquita&theme="/>
   <img height="194em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pepemesquita&layout=compact&langs_count=8&theme="/>
 </a>
 </p>
