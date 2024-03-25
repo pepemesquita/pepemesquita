@@ -35,12 +35,12 @@ My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at
 ##
 <img width="300px" align="left" src="https://user-images.githubusercontent.com/81587883/229621452-0adebd93-dfe5-4b94-ad14-3e41c337c495.png">
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=false">    <img  alt="pepemesquita's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pepemesquita?cardType=level&theme=radical&preferLogin=false" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=false">    <img width="390px" alt="pepemesquita's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pepemesquita?cardType=level&theme=radical&preferLogin=false" />  </a>
   </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/pepemesquita"> <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepemesquita&layout=compact&theme=radical" /> 
+<a href="https://github.com/pepemesquita"> <img width="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepemesquita&layout=compact&theme=radical" /> 
   
 </p>
  
