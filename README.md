@@ -2,7 +2,7 @@
 My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at the Federal University of Pelotas - RS, I started in this area because I've always been in contact with it since I was a child, venturing into Linux and using bash a lot and I'm there until today, getting angry and learning.
 
 <p align="center">
-  <img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="450">
+  <img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="300">
 </p>
  <p align = "center"> BTW Golden boy is a great anime, I recommend!</p>
 
@@ -36,5 +36,11 @@ My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at
 <img width="300px" align="left" src="https://user-images.githubusercontent.com/81587883/229621452-0adebd93-dfe5-4b94-ad14-3e41c337c495.png">
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=false">    <img  alt="pepemesquita's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pepemesquita?cardType=level&theme=radical&preferLogin=false" />  </a>
+  </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/pepemesquita"> <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepemesquita&layout=compact&theme=radical" /> 
+  
 </p>
  
