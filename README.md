@@ -22,7 +22,7 @@ My name is Pedro Henrique, I'm 20 years old and I'm studying Computer Science at
 </br>
 
 <div display="inline-block">
- <p align="left">🐧 I am a member of the Artificial Intelligence Applications Group at UFPel <a href="https://wp.ufpel.edu.br/gaia/">GAIA</a>.</p>
+ <p align="left">👨🏽‍💻 I am a member of the Artificial Intelligence Applications Group at UFPel <a href="https://wp.ufpel.edu.br/gaia/">GAIA</a>.</p>
  <p align="left">📚 I am developing segmentation in dental images using Deep Learning techniques and studying technologies such as Python, OpenCV, MatLab, Tensorflow and others.</p>
  <p align="left">🏃🏾‍♂️It doesn't seem like it, but i play a lot of sports like kickboxing, basketball and american football.
  <p align="left">🎮 I also don't dispense with my gamer side, from time to time i play some game with my friends or indie games with a good history.
