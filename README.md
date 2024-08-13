@@ -3,8 +3,9 @@ My name is Pedro Henrique, I'm 21 years old and I'm studying Computer Science at
 
 ### Languages and tools🖥️
 <img width="300px" align="right" src="https://user-images.githubusercontent.com/81587883/229560363-1bd75beb-91d4-4cdf-8d8a-48c345628fe5.png">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title = "Csharp"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="36px" src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" title = "ROS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
