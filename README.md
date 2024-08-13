@@ -1,12 +1,6 @@
 # Hello devs!🖖
 My name is Pedro Henrique, I'm 21 years old and I'm studying Computer Science at the Federal University of Pelotas - RS, I started in this area because I've always been in contact with it since I was a child, venturing into Linux and using bash a lot and I'm there until today, getting angry and learning.
 
-<p align="center">
-  <img src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="300">
-</p>
- <p align = "center"> BTW Golden boy is a great anime, I recommend!</p>
-
-
 ### Languages and tools🖥️
 <img width="300px" align="right" src="https://user-images.githubusercontent.com/81587883/229560363-1bd75beb-91d4-4cdf-8d8a-48c345628fe5.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
