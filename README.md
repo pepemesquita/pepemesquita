@@ -6,8 +6,7 @@ My name is Pedro Henrique, I'm 21 years old and I'm studying Computer Science at
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title = "Csharp"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
-<code><img width="36px" src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" title = "ROS"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title = "LUA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="65px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title = "COLABORATORY"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
@@ -17,9 +16,9 @@ My name is Pedro Henrique, I'm 21 years old and I'm studying Computer Science at
 </br>
 
 <div display="inline-block">
- <p align="left">👨🏽‍💻 I am a member of the Artificial Intelligence Applications Group at UFPel <a href="https://wp.ufpel.edu.br/gaia/">GAIA</a>.</p>
+ <p align="left">👨🏽‍💻 I am a Software Developer of the game Farmine Land from the company Anemo League <a href="https://farmine.land/">Farmine Land</a>.</p>
  <p align="left">📚 I am developing segmentation in dental images using Deep Learning techniques and studying technologies such as Python, OpenCV, MatLab, Tensorflow and others.</p>
- <p align="left">🏃🏾‍♂️It doesn't seem like it, but i play a lot of sports like kickboxing, basketball and american football.
+ <p align="left">🏃🏾‍♂️It doesn't seem like it, but i play a lot of sports and marcial arts like kickboxing, karate, basketball and american football where i play in WR position.
  <p align="left">🎮 I also don't dispense with my gamer side, from time to time i play some game with my friends or indie games with a good history.
  </p>
 </div>
