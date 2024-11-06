@@ -3,21 +3,24 @@ My name is Pedro Henrique, I'm 21 years old and I'm studying Computer Science at
 
 ### Languages and tools🖥️
 <img width="300px" align="right" src="https://user-images.githubusercontent.com/81587883/229560363-1bd75beb-91d4-4cdf-8d8a-48c345628fe5.png">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title = "Csharp"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title = "REACT"/></code> 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title = "NODE.JS"/></code> 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title = "EXPRESS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title = "NEXT.JS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title = "LUA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="65px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" title = "COLABORATORY"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title = "POSTGRESQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
 </br>
 </br>
 
 <div display="inline-block">
- <p align="left">👨🏽‍💻 My last job was as Software Developer of the game Farmine Land from the company Anemo League <a href="https://farmine.land/">Farmine Land</a>.</p>
- <p align="left">📚 I am developing segmentation in dental images using Deep Learning techniques and studying technologies such as Python, OpenCV, MatLab, Tensorflow and others to My undergraduate thesis.</p>
+ <p align="left">👨🏽‍💻 My actual job is as a Software Developer at company <a href="https://orsai.digital/">OrsAI</a>.</p>
+ <p align="left">📚 I am developing segmentation in dental images using Deep Learning techniques and studying technologies such as Python, OpenCV, MatLab, Tensorflow and others to my undergraduate thesis.</p>
  <p align="left">🏃🏾‍♂️It doesn't seem like it, but i play a lot of sports and marcial arts like kickboxing, karate, basketball and american football where i play in WR position.
  <p align="left">🎮 I also don't dispense with my gamer side, from time to time i play some game with my friends or indie games with a good history.
  </p>
