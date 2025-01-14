@@ -19,7 +19,7 @@ My name is Pedro Henrique, I'm 21 years old and I'm studying Computer Science at
 </br>
 
 <div display="inline-block">
- <p align="left">👨🏽‍💻 My actual job is as a Software Developer at company <a href="https://orsai.digital/">OrsAI</a>.</p>
+ <p align="left">👨🏽‍💻 My actual job is as a Software Developer at company <a href="https://orsai.digital/">OrsAI</a> where i commit with bitbucket.</p>
  <p align="left">📚 I am developing segmentation in dental images using Deep Learning techniques and studying technologies such as Python, OpenCV, MatLab, Tensorflow and others to my undergraduate thesis.</p>
  <p align="left">🏃🏾‍♂️It doesn't seem like it, but i play a lot of sports and marcial arts like kickboxing, karate, basketball and american football where i play in WR position.
  <p align="left">🎮 I also don't dispense with my gamer side, from time to time i play some game with my friends or indie games with a good history.
